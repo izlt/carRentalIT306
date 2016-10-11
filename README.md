@@ -18,6 +18,7 @@
  * The software alarms whether the users enter unexpected values and still continues to run after every error occurs.
  * When user wants to exit the program the program prompts users to exit the program.
  * After collecting regular employees’ details about vehicle and customers, the administrative employee collects their data and make them into a report.
+ 
 ## Usability
 The application should have simple interface with ease in usability.  The instructions and menu must be clear to follow, so the employee of rental company can use without choosing wrong item.  For example, when user choose wrong choice, either null pointer exception or illigalArgument exception to provide retry. Also, the input type and format will be indicated as well as exception handling for retry. 
  * At the end of each chosen inputs, the temporary pop-up will ask to user for confirmation. If not, the user will be provided another set of input to ensure the quality and decrease the error rate. Finally, as a admin side, every input data will be organized and summarized in text file. 
