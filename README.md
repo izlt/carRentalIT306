@@ -10,9 +10,9 @@
 ## Narrative of what users will be able to do with the product and a description of how the application will execute
  * A user enters a username and password for authentication. After authentication process, the program welcomes a user with a title, either an administrative or regular employee. 
  * Log-in information converted and stored in a text file can be later used to verify existing accounts.
-  * How the program is run differs in two different roles.
-     ** Users signed into an administrative employee account have privileges of not only entering information about vehicles, customers, and employees, but also observing reports of all input and calculation of total sales.
-    ** Users signed into a regular employee has only two options, renting and returning vehicles and information of renters (customers).  
+ * How the program is run differs in two different roles.
+     - Users signed into an administrative employee account have privileges of not only entering information about vehicles, customers, and employees, but also observing reports of all input and calculation of total sales.
+     - Users signed into a regular employee has only two options, renting and returning vehicles and information of renters (customers).  
  * For adding a rented car software is ready for users to enter details of the vehicles.
  * The software stores various objects of different attributes about the vehicles.
  * The software alarms whether the users enter unexpected values and still continues to run after every error occurs.
